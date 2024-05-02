@@ -512,19 +512,14 @@ button {
 .footer img {
     max-width: 70%;
 }
-
-
-
 .social-links-company {
     display: flex;
     align-items: center;
     gap: 1.5em;
 }
-
 .social-links-company svg {
     transition: var(--transition);
 }
-
 .social-links-company a {
     display: flex;
     align-items: center;
@@ -547,18 +542,14 @@ a {
 .footer a {
     color: #cccaca;
     font-size: 14px;
-
 }
-
 .follow-button:hover {
     scale: 1.1;
 }
 
 .follow-button svg {
-
     color: rgb(255, 253, 255);
 }
-
 .footer-bottom p,
 .footer-bottom a {
     font-size: 0.8em;
